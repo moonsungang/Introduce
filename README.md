@@ -15,23 +15,16 @@
 <img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
 
 ## 경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2028 ~ 2030) 
-- 한국전력국제원자력대학원대학교 원자력산업학과 석사 (2026 ~ 2027)
+- [한국핵융합에너지연구원](https://www.kfe.re.kr/)(2034 ~ 현재)
+- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2028 ~ 2033) 
 
 ## 대외활동
-- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
+- 한국수력원자력 체험형 청년 인턴 (2025)
+- 전기사랑 스피치대회 장려상 (2024)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 전기공학과 졸업 (2019 ~ 2025)
+- 대천고등학교 졸업(2016 ~ 2018)
 
 ## 사용 기술
 ### Android
@@ -42,30 +35,6 @@
 - View : Compose, Epoxy, Databinding
 - Architecture : MVI, MVVM, MVP
 - lint + test code
-
-### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
-- selenium
-
-### Frontend
-주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
-- React
-
-그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
-- 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / Trello / Asana
-- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 디자인 협업 : Zeplin / Figma
-- 버전관리 : Git / GitFlow
 
 ## 프로젝트 이력
 
@@ -109,24 +78,6 @@
 - 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
 - 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
 - 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
-
-## 오픈소스 기여
-
-### Adambl4/mirakle
-- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
-
-### Sonatype/nexus directjngine
-- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
-
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
-
-### TedPermission
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
-
-### RxAndroid
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
