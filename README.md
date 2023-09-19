@@ -21,15 +21,15 @@
 - 광운대학교 전기공학과 졸업 (2019 ~ 2025)
 - 대천고등학교 졸업(2016 ~ 2018)
 
-## 사용 기술
-### Android
-요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
-- Kotlin, Kotlin DSL
-- DI : Dagger / Koin
-- Stream : rxJava / coroutine
-- View : Compose, Epoxy, Databinding
-- Architecture : MVI, MVVM, MVP
-- lint + test code
+## 보유 자격증
+### 전기기사
+- 취득년도 : 2024년
+
+### 전기기능사
+- 취득년도 : 2024년
+
+### 원자력발전기술사
+-취득년도 : 2026년
 
 ## 프로젝트 이력
 
