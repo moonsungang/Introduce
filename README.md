@@ -1,5 +1,5 @@
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지](https://avatars.githubusercontent.com/u/144924760?s=400&u=76cd669bcb87f01b76782e4944f4bc38129876aa&v=4)
 - 이름: 문순강
 - 취미: ㅁㄴㅇㄹ
 - Email: msk3610@naver.com
