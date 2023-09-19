@@ -10,7 +10,8 @@
 
 ## 경력
 - [한국핵융합에너지연구원](https://www.kfe.re.kr/)(2034 ~ 현재)
-- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2028 ~ 2033) 
+- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2029 ~ 2033)
+- [한국전력공사](http://www.kepco.co.kr/)(2027 ~ 2028)
 
 ## 대외활동
 - 한국수력원자력 체험형 청년 인턴 (2025)
