@@ -9,8 +9,8 @@
 ```
 
 ## 경력
-- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2032 ~ 현재)
-- [한국전력공사](http://www.kepco.co.kr/)(2027 ~ 2032)
+- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2028 ~ 현재)
+- [한국전력공사](http://www.kepco.co.kr/)(2026 ~ 2027)
 
 ## 대외활동
 - 한국수력원자력 체험형 청년 인턴 (2025)
