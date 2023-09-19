@@ -16,12 +16,12 @@
 
 <img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
 
-## 회사경력
+## 경력
 - [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
 - [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
 - [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
+- [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2028 ~ 2030) 
+- 한국전력국제원자력대학원대학교 원자력산업학과 석사 (2026 ~ 2027)
 
 ## 대외활동
 - [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
