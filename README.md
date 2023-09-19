@@ -1,9 +1,8 @@
 ## 소개
 ![프로필이미지](https://avatars.githubusercontent.com/u/144924760?s=400&u=76cd669bcb87f01b76782e4944f4bc38129876aa&v=4)
 - 이름: 문순강
-- 취미: ㅁㄴㅇㄹ
 - Email: msk3610@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
+- GitHub: [github.com/moonsungang](https://github.com/moonsungang)
 
 ```
 안전하고 효율적인 원자력 발전을 추구하고 있습니다.
