@@ -9,11 +9,6 @@
 안전하고 효율적인 원자력 발전을 추구하고 있습니다.
 ```
 
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
-
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
-
 ## 경력
 - [한국핵융합에너지연구원](https://www.kfe.re.kr/)(2034 ~ 현재)
 - [한국수력원자력](https://www.khnp.co.kr/main/index.do)(2028 ~ 2033) 
